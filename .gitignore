@@ -1,0 +1,18 @@
+# --- PYTHON ---
+.venv/
+venv/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+
+# --- C ---
+*.o
+*.obj
+*.out
+*.exe
+
+# --- SISTEMA OPERACIONAL ---
+.DS_Store
+Thumbs.db
+
